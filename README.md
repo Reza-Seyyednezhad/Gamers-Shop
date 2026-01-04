@@ -59,15 +59,15 @@ It does not include real-time product management, price calculations, or backend
 <p align="center">
   <img src="public/screenshots/Home-Section(Landing).png" width="700">
 </p>
----
+
 <p align="center">
   <img src="public/screenshots/Shop-Section.png" width="700">
 </p>
----
+
 <p align="center">
   <img src="public/screenshots/Account-Section.png" width="700">
 </p>
----
+
 <p align="center">
   <img src="public/screenshots/Cart-Section.png" width="700">
 </p>
